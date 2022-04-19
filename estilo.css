@@ -1,0 +1,63 @@
+body{
+    margin: 50px;
+    background-image: url(fundoprincipal1.png);
+    color:red;
+    font-size: 20px;
+    font-family: helvetica;
+    font-weight: bold;
+}
+
+.menu{
+    color: blue; 
+    font-size: 40px;
+    font-family: Georgia;
+}
+
+a:link{
+    color: yellow;
+    text-decoration: none;
+}
+
+a:active{
+    color:yellow;
+    text-decoration: none;
+}
+
+a:hover{
+    color:yellow;
+    text-decoration: underline;
+}
+
+a:visited{
+    color:yellow;
+}
+
+#lista_h2{
+    color:orange;
+    font-family: Arial;
+    font-size: 40px;
+}
+
+#lista_ul{
+    list-style: upper-latin;
+    color: green;
+}
+
+.bmw_geral{
+    margin-left: 40px;
+    margin-top: 60px;
+    display: flex;
+}
+
+.bmw_i8{
+    border: dotted 6px blue;
+    padding: 20px;
+    border-radius: 30px; 
+}
+
+.bmw_x5{
+    margin-left: 20px;
+    border: dashed 12px yellow;
+    padding: 10px;
+    border-radius: 30px; 
+}

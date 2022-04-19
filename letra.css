@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@font-face{
+    font-family: london;
+    src: url('OldLondon.ttf') format('truetype');
+}
+
+.texto_h3{
+    font-family: 'Pacifico', cursive;
+    color: blue;
+    font-size:22px;
+}
+
+#paragrafo{
+    font-family: london;
+    color:orangered;
+    font-size:40px;
+}

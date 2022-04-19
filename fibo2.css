@@ -1,0 +1,12 @@
+body{
+    padding: 4px;
+    background-color: blueviolet;
+    color:black;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+
+#serie{
+    gap: 5px;
+}
